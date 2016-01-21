@@ -1,0 +1,215 @@
+rank is 0
+rank is 1
+rank is 6
+rank is 8
+rank is 9
+rank is 11
+rank is 12
+rank is 13
+rank is 16
+rank is 17
+rank is 18
+rank is 14
+rank is 2
+rank is 5
+rank is 10
+rank is 15
+rank is 20
+rank is 3
+rank is 4
+rank is 7
+rank is 19
+6.813307
+3.434918
+2.776514
+2.727504
+3.014625
+3.194671
+6.856260
+3.298183
+2.742871
+6.224712
+3.715160
+2.771909
+3.244562
+recved from 0 to master
+recved from 1 to master
+3.768442
+3.529002
+3.796565
+3.565077
+recved from 2 to master
+recved from 3 to master
+recved from 4 to master
+recved from 5 to master
+3.364983
+recved from 6 to master
+recved from 7 to master
+3.469153
+3.428690
+recved from 8 to master
+recved from 9 to master
+recved from 10 to master
+recved from 11 to master
+recved from 12 to master
+recved from 13 to master
+recved from 14 to master
+recved from 15 to master
+recved from 16 to master
+recved from 17 to master
+recved from 18 to master
+recved from 19 to master
+3.220223
+3.218675
+recved from 20 to master
+recved from 21 to master
+3.002139
+3.062811
+3.378158
+3.256298
+3.461624
+3.995274
+recved from 22 to master
+recved from 23 to master
+recved from 24 to master
+recved from 25 to master
+recved from 26 to master
+recved from 27 to master
+3.238200
+3.326804
+3.257861
+3.517972
+3.781706
+3.693320
+3.856885
+3.798483
+4.116036
+3.914735
+4.142633
+recved from 28 to master
+recved from 29 to master
+recved from 30 to master
+recved from 31 to master
+recved from 32 to master
+4.315171
+recved from 33 to master
+recved from 34 to master
+recved from 35 to master
+recved from 36 to master
+recved from 37 to master
+recved from 38 to master
+recved from 39 to master
+3.804079
+recved from 40 to master
+4.150279
+recved from 41 to master
+3.038896
+3.032691
+3.578055
+3.471486
+recved from 42 to master
+recved from 43 to master
+recved from 44 to master
+recved from 45 to master
+4.024883
+recved from 46 to master
+4.150305
+recved from 47 to master
+3.445394
+recved from 48 to master
+3.352400
+3.524277
+recved from 49 to master
+3.355262
+3.238890
+3.365981
+recved from 50 to master
+recved from 51 to master
+3.444477
+3.625409
+4.302749
+4.122451
+recved from 52 to master
+recved from 53 to master
+recved from 54 to master
+recved from 55 to master
+recved from 56 to master
+recved from 57 to master
+4.297577
+recved from 58 to master
+4.801729
+recved from 59 to master
+3.919493
+recved from 60 to master
+4.732155
+recved from 61 to master
+3.375672
+3.873612
+recved from 62 to master
+3.669027
+3.784008
+recved from 63 to master
+recved from 64 to master
+recved from 65 to master
+4.118359
+recved from 66 to master
+4.300207
+recved from 67 to master
+3.336493
+3.198586
+3.622596
+3.483672
+3.957980
+recved from 68 to master
+recved from 69 to master
+recved from 70 to master
+recved from 71 to master
+3.619021
+3.740403
+3.961044
+recved from 72 to master
+3.952319
+4.565470
+recved from 73 to master
+recved from 74 to master
+recved from 75 to master
+recved from 76 to master
+recved from 77 to master
+4.077172
+recved from 78 to master
+4.007428
+recved from 79 to master
+3.944480
+recved from 80 to master
+3.471992
+4.227596
+recved from 81 to master
+3.414096
+3.683584
+3.806269
+recved from 82 to master
+recved from 83 to master
+recved from 84 to master
+recved from 85 to master
+3.843259
+recved from 86 to master
+3.699465
+recved from 87 to master
+2.875299
+3.167306
+3.514287
+recved from 88 to master
+recved from 89 to master
+3.044379
+recved from 90 to master
+recved from 91 to master
+3.012431
+2.869575
+recved from 92 to master
+3.446634
+3.205360
+3.368456
+recved from 93 to master
+recved from 94 to master
+3.208556
+3.239501

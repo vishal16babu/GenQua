@@ -1,0 +1,26 @@
+rank is 2
+rank is 4
+rank is 5
+rank is 7
+rank is 8
+rank is 9
+rank is 10
+rank is 11
+rank is 12
+rank is 15
+rank is 17
+rank is 19
+rank is 20
+rank is 6
+rank is 3
+rank is 13
+rank is 0
+rank is 1
+rank is 14
+rank is 16
+rank is 18
+3.726982
+5.201330
+--------------------------------------------------------------------------
+mpirun noticed that process rank 5 with PID 22504 on node GPUSERVER exited on signal 8 (Floating point exception).
+--------------------------------------------------------------------------

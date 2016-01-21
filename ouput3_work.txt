@@ -1,0 +1,1120 @@
+rank is 11
+rank is 12
+rank is 14
+rank is 19
+rank is 4
+rank is 5
+rank is 8
+rank is 10
+rank is 16
+rank is 20
+rank is 13
+rank is 17
+rank is 1
+rank is 9
+rank is 3
+rank is 7
+rank is 18
+rank is 0
+rank is 2
+rank is 6
+rank is 15
+5.970297
+2.775599
+2.888582
+4.990899
+4.946561
+4.792650
+4.522215
+4.813207
+4.581403
+3.118941
+3.039175
+3.314877
+3.101420
+2.890199
+3.493140
+recved from 0 to master
+recved from 1 to master
+recved from 2 to master
+recved from 3 to master
+3.657268
+3.165752
+3.252940
+3.497732
+recved from 4 to master
+recved from 5 to master
+recved from 6 to master
+recved from 7 to master
+recved from 8 to master
+recved from 9 to master
+recved from 10 to master
+recved from 11 to master
+recved from 12 to master
+recved from 13 to master
+recved from 14 to master
+recved from 15 to master
+3.343010
+recved from 16 to master
+recved from 17 to master
+recved from 18 to master
+recved from 19 to master
+3.457848
+3.748676
+3.612335
+4.029132
+recved from 20 to master
+recved from 21 to master
+recved from 22 to master
+recved from 23 to master
+3.501833
+3.470909
+3.504183
+4.023696
+3.752085
+3.594187
+recved from 24 to master
+recved from 25 to master
+3.981475
+recved from 26 to master
+4.261219
+3.483855
+4.457028
+recved from 27 to master
+recved from 28 to master
+4.123791
+recved from 29 to master
+recved from 30 to master
+recved from 31 to master
+recved from 32 to master
+3.899901
+4.040919
+4.149907
+4.263178
+4.239871
+recved from 33 to master
+recved from 34 to master
+recved from 35 to master
+recved from 36 to master
+recved from 37 to master
+recved from 38 to master
+recved from 39 to master
+3.494492
+3.702775
+3.889154
+recved from 40 to master
+4.397372
+recved from 41 to master
+recved from 42 to master
+recved from 43 to master
+3.534161
+recved from 44 to master
+3.573620
+recved from 45 to master
+3.452982
+3.503153
+3.654991
+3.750767
+recved from 46 to master
+3.667578
+3.945294
+3.409142
+3.702579
+3.614143
+3.509970
+4.527241
+recved from 47 to master
+recved from 48 to master
+recved from 49 to master
+recved from 50 to master
+recved from 51 to master
+recved from 52 to master
+3.690633
+4.769881
+recved from 53 to master
+recved from 54 to master
+recved from 55 to master
+recved from 56 to master
+recved from 57 to master
+recved from 58 to master
+4.924681
+recved from 59 to master
+3.144955
+3.152317
+3.286283
+3.584349
+recved from 60 to master
+3.888754
+3.508988
+3.237735
+3.365564
+4.652142
+recved from 61 to master
+recved from 62 to master
+recved from 63 to master
+recved from 64 to master
+recved from 65 to master
+recved from 66 to master
+3.666683
+3.700794
+3.060503
+3.104977
+3.374199
+4.278131
+3.937498
+4.562643
+recved from 67 to master
+recved from 68 to master
+recved from 69 to master
+recved from 70 to master
+recved from 71 to master
+recved from 72 to master
+3.794557
+4.396874
+recved from 73 to master
+recved from 74 to master
+recved from 75 to master
+recved from 76 to master
+recved from 77 to master
+recved from 78 to master
+4.212193
+recved from 79 to master
+3.964785
+recved from 80 to master
+3.247841
+3.509771
+3.271529
+3.663618
+3.755244
+3.992550
+recved from 81 to master
+recved from 82 to master
+recved from 83 to master
+recved from 84 to master
+recved from 85 to master
+recved from 86 to master
+3.159145
+3.822492
+3.338646
+3.611692
+3.532965
+3.355581
+3.760611
+3.371738
+3.596922
+3.889902
+recved from 87 to master
+recved from 88 to master
+recved from 89 to master
+recved from 90 to master
+recved from 91 to master
+recved from 92 to master
+3.802569
+3.794055
+recved from 93 to master
+recved from 94 to master
+recved from 95 to master
+recved from 96 to master
+recved from 97 to master
+recved from 98 to master
+3.830903
+recved from 99 to master
+-2971873746818.376465
+-109057.850310
+0.903000
+-452280846409.500549
+-109057.850310
+0.903000
+-15741255045.234564
+-109057.850310
+0.903000
+-4679345665.669231
+-109057.850310
+0.903000
+-1585810328.803169
+-109057.850310
+0.903000
+-1715193225.174857
+-109057.850310
+0.903000
+-2100506783.277202
+-109057.850310
+0.903000
+-926567280.679825
+-109057.850310
+0.903000
+-1213546978.963357
+-109057.850310
+0.903000
+-1194621564.324653
+-109057.850310
+0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.903000
+best_acc is 0.904000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.909000
+best_acc is 0.912000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.913000
+best_acc is 0.917000
+best_acc is 0.918000
+best_acc is 0.918000
+best_acc is 0.922000
+best_acc is 0.923000
+best_acc is 0.926000
+best_acc is 0.927000
+best_acc is 0.927000
+best_acc is 0.926000
+best_acc is 0.926000
+best_acc is 0.926000
+best_acc is 0.926000
+best_acc is 0.926000
+best_acc is 0.927000
+best_acc is 0.932000
+best_acc is 0.932000
+best_acc is 0.932000
+best_acc is 0.933000
+best_acc is 0.933000
+best_acc is 0.938000
+best_acc is 0.937000
+best_acc is 0.939000
+best_acc is 0.940000
+best_acc is 0.940000
+best_acc is 0.943000
+best_acc is 0.944000
+best_acc is 0.945000
+best_acc is 0.945000
+best_acc is 0.945000
+best_acc is 0.945000
+best_acc is 0.945000
+best_acc is 0.947000
+best_acc is 0.948000
+best_acc is 0.949000
+best_acc is 0.949000
+best_acc is 0.949000
+best_acc is 0.949000
+best_acc is 0.951000
+best_acc is 0.951000
+best_acc is 0.951000
+best_acc is 0.951000
+best_acc is 0.951000
+best_acc is 0.951000
+best_acc is 0.953000
+best_acc is 0.953000
+best_acc is 0.953000
+best_acc is 0.953000
+best_acc is 0.956000
+best_acc is 0.956000
+best_acc is 0.956000
+best_acc is 0.956000
+best_acc is 0.956000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.957000
+best_acc is 0.958000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.960000
+best_acc is 0.962000
+best_acc is 0.963000
+best_acc is 0.963000
+best_acc is 0.962000
+best_acc is 0.963000
+best_acc is 0.963000
+best_acc is 0.962000
+best_acc is 0.963000
+best_acc is 0.963000
+best_acc is 0.963000
+best_acc is 0.962000
+best_acc is 0.962000
+best_acc is 0.963000
+best_acc is 0.963000
+best_acc is 0.962000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.965000
+best_acc is 0.966000
+best_acc is 0.967000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.968000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.969000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.970000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.971000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.972000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+best_acc is 0.976000
+--------------------------------------------------------------------------
+mpirun noticed that process rank 0 with PID 16672 on node GPUSERVER exited on signal 11 (Segmentation fault).
+--------------------------------------------------------------------------

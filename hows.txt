@@ -1,0 +1,82 @@
+rank is 5
+rank is 6
+rank is 7
+rank is 15
+rank is 3
+rank is 4
+rank is 9
+rank is 11
+rank is 13
+rank is 20
+rank is 18
+rank is 17
+rank is 14
+rank is 16
+rank is 19
+rank is 2
+rank is 0
+rank is 10
+rank is 1
+rank is 12
+rank is 8
+3.532574
+3.297425
+3.218072
+3.272320
+2.870684
+2.994579
+2.863216
+2.742726
+2.556679
+12.586364
+recved from 0 to master
+3.154545
+3.125849
+3.048895
+3.648923
+3.299805
+3.367812
+3.481252
+4.115530
+3.879372
+4.005788
+3.510952
+recved from 1 to master
+recved from 2 to master
+recved from 3 to master
+recved from 4 to master
+recved from 5 to master
+recved from 6 to master
+recved from 7 to master
+recved from 8 to master
+recved from 9 to master
+recved from 10 to master
+recved from 11 to master
+recved from 12 to master
+recved from 13 to master
+recved from 14 to master
+recved from 15 to master
+recved from 16 to master
+recved from 17 to master
+recved from 18 to master
+recved from 19 to master
+recved from 20 to master
+3.610045
+3.438722
+3.846323
+3.559867
+3.994745
+4.151885
+3.890435
+3.308035
+3.381511
+3.756789
+3.894814
+4.144831
+4.798349
+4.597062
+4.077114
+3.726194
+--------------------------------------------------------------------------
+mpirun noticed that process rank 12 with PID 16785 on node GPUSERVER exited on signal 8 (Floating point exception).
+--------------------------------------------------------------------------
